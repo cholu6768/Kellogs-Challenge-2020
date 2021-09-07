@@ -1,4 +1,5 @@
 # Kellogs-Challenge-2020
+This was my first ever data analysis project!
 
 I took part of a remote Kellogs contest on 2020 and the goal was to find new customers(Stores) in the surroundings of their current customers. The analysis was for Mexico City.
 1. In this contest I used public datasets from mexico city regarding population, economy and safety of each area of the city and a dataset that Kellogs gives to you about their current customers and its location in mexico city.
