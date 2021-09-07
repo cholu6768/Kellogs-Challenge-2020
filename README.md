@@ -7,7 +7,7 @@ I took part of a remote Kellogs contest on 2020 and the goal was to find new cus
 3. The data was visualized using Tableu. 
 4. My final hypothesis was on choosing an area based on a big population, good economy, safety of the area and had a good quantity of possible customers.
 
-NOTE: There is a presentation attached but it is in spanish since that was the requirement for the contest
+NOTE: There is a presentation attached but it is in spanish since that was the requirement for the contest. The visualizations done can still be seen on the last 3 slides of the presentation.
 
 
 
